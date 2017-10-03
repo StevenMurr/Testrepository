@@ -1,1 +1,1 @@
-# Testrepository
+This is my first coded website. This web project will help me learn how to use HTML and CSS.
